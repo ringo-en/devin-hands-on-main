@@ -23,6 +23,7 @@ export function sumNumbers(arr) {
   return total;
 }
 
+
 /**
  * 数値配列の平均値を計算します
  * 内部でsumNumbers関数を使用して合計を計算し、配列の長さで除算します。
